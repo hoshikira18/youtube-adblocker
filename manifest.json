@@ -9,6 +9,10 @@
         {
             "matches": ["https://www.youtube.com/*"],
             "js": ["content.js"]
+        },
+        {
+            "matches": ["https://chat.zalo.me/*"],
+            "js": ["zalo.js"]
         }
     ]
 }
